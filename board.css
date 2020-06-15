@@ -2,6 +2,6 @@
   display: grid;
   grid-template-columns: 33% 33% 33%;
   grid-template-rows: 33% 33% 33%;
-  height: 300px;
   width: 300px;
+  height: 300px;
 }
