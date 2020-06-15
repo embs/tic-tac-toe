@@ -1,4 +1,6 @@
 .cell {
   margin: 1px;
+  line-height: 100px;
+  text-align: center;
   background-color: #f2f2f2;
 }
